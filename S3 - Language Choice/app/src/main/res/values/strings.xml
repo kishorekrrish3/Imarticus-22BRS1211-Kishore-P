@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S3 - Language Choice</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="translate">This text should be translated.</string>
+</resources>
